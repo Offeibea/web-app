@@ -1,2 +1,4 @@
-# web-app
-migration2
+# maven-project
+
+Simple Maven Project conflict
+
